@@ -1,0 +1,24 @@
+{
+  "name": "sample_app",
+  "version": "1.0.0",
+  "description": "My first node&express project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leslie-love/sample_app.git"
+  },
+  "author": "lisujuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leslie-love/sample_app/issues"
+  },
+  "homepage": "https://github.com/Leslie-love/sample_app#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express3-handlebars": "^0.5.2",
+    "hbs": "^4.0.1"
+  }
+}
